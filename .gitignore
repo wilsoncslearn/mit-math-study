@@ -1,0 +1,10 @@
+# Sync reviewed text files only; course packages and local settings stay local.
+# This does not remove already tracked files or Git history.
+/*
+!/.gitignore
+!/README.md
+!/README_学习说明.md
+!/AGENTS.md
+!/agent.md
+!/微积分学习进度.md
+!/线性代数学习进度.md
